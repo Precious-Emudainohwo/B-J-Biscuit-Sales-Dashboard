@@ -80,6 +80,6 @@ It converts complex transactional data into a **clear strategic performance over
 
 
 ## 📂 Download Files
-- [Excel Dashboard](Inventory_Sales_Dashboard.xlsm)  
-- [PDF Report](Inventory_Sales_Dashboard.pdf)  
+- [Excel Dashboard](https://github.com/Precious-Emudainohwo/B-J-Biscuit-Sales-Dashboard/blob/main/B%26J%20Biscuit%20Sales%20Dashboard.xlsm)  
+ 
 
